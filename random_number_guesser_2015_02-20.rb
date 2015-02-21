@@ -23,3 +23,4 @@ def analyze_guess(guess)
 end
 
 puts analyze_guess(@number)
+puts "Smile!"
